@@ -1,2 +1,71 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+html {
+    background-color: #FFDDC6;
+}
+
+
+
+ul {
+    font-size: 30px; 
+    font-family: 'Yusei Magic';
+    color: #B9A3A2; 
+    background-color: #FFFFF9;
+    text-align: left; 
+    border: 10px outset #FF917A;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#image { 
+    max-width: 100%;
+     height: auto;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     text-align: center;
+    }
+figcaption {
+    font-size: 40px; 
+    font-family: 'Yusei Magic';
+    color: #B9A3A2;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
+}
+#tribute-link a:hover {
+    color:#FF917A;
+}
+#tribute-link {
+    font-size: 30px;
+    font-family: 'Yusei Magic';
+    color: #B9A3A2;
+    text-align: center;
+    margin-left: auto;
+    display: block;
+    margin-right: auto;
+
+}
+h2 {
+    font-size: 50px;
+    font-family: 'Yusei Magic';
+    color: #EB7760;
+    background-color: #FFFFF9;
+    text-align: center;
+    border: 10px outset #FFFFF9;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+h1 {
+    font-size: 70px;
+    font-family: 'Yusei Magic';
+    color: #EB7760;
+    background-color: #FFFFF9;
+    text-align: center;
+    border: 10px outset #FFFFF9;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+@import <link rel="preconnect" href="https://fonts.gstatic.com">
